@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{ABDB577D-A7E2-40CF-B48F-B18B5D3D5305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTests", "..\MathTests\MathTests.csproj", "{2977A5D3-4A41-4CB1-833D-D77457A43C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDB577D-A7E2-40CF-B48F-B18B5D3D5305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDB577D-A7E2-40CF-B48F-B18B5D3D5305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDB577D-A7E2-40CF-B48F-B18B5D3D5305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDB577D-A7E2-40CF-B48F-B18B5D3D5305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2977A5D3-4A41-4CB1-833D-D77457A43C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2977A5D3-4A41-4CB1-833D-D77457A43C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2977A5D3-4A41-4CB1-833D-D77457A43C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2977A5D3-4A41-4CB1-833D-D77457A43C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E0810B-6372-4AE9-9563-578CE4CC834E}
+	EndGlobalSection
+EndGlobal
